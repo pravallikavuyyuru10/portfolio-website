@@ -96,4 +96,4 @@ B.Tech CSE Student | Python | Java | Web Development | Learning Software Develop
 ## Connect With Me
 
 * GitHub: github.com/pravallikavuyyuru10
-* LinkedIn: Add your LinkedIn profile link here
+
